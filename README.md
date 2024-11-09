@@ -6,12 +6,11 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/joshmadakor0/vulnerability-management-program)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+- **[STIG Implementations (PowerShell)](https://github.com/joshmadakor0/stig-implementations)**
 
-## 🚨 Security Operation and Incident Response Projects
+## 🚨 Threat Hunting and Security Operations
 
-- **[Creation of a Mini SOC and Honeynet](https://github.com/joshcybertest/soc-and-honeynet)**
-- **[Threat Hunting Detection Use Cases](https://github.com/joshcybertest/threat-hunting-use-cases)**
+- **[Threat Hunting (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-tor)**
 
 <hr/>
 
